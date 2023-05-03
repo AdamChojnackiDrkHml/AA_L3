@@ -1,0 +1,15 @@
+C:\Users\Adam\RiderProjects\AA_L3\bin\Debug\net7.0\AA_L3.exe
+C:\Users\Adam\RiderProjects\AA_L3\bin\Debug\net7.0\AA_L3.deps.json
+C:\Users\Adam\RiderProjects\AA_L3\bin\Debug\net7.0\AA_L3.runtimeconfig.json
+C:\Users\Adam\RiderProjects\AA_L3\bin\Debug\net7.0\AA_L3.dll
+C:\Users\Adam\RiderProjects\AA_L3\bin\Debug\net7.0\AA_L3.pdb
+C:\Users\Adam\RiderProjects\AA_L3\obj\Debug\net7.0\AA_L3.csproj.AssemblyReference.cache
+C:\Users\Adam\RiderProjects\AA_L3\obj\Debug\net7.0\AA_L3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\RiderProjects\AA_L3\obj\Debug\net7.0\AA_L3.AssemblyInfoInputs.cache
+C:\Users\Adam\RiderProjects\AA_L3\obj\Debug\net7.0\AA_L3.AssemblyInfo.cs
+C:\Users\Adam\RiderProjects\AA_L3\obj\Debug\net7.0\AA_L3.csproj.CoreCompileInputs.cache
+C:\Users\Adam\RiderProjects\AA_L3\obj\Debug\net7.0\AA_L3.dll
+C:\Users\Adam\RiderProjects\AA_L3\obj\Debug\net7.0\refint\AA_L3.dll
+C:\Users\Adam\RiderProjects\AA_L3\obj\Debug\net7.0\AA_L3.pdb
+C:\Users\Adam\RiderProjects\AA_L3\obj\Debug\net7.0\AA_L3.genruntimeconfig.cache
+C:\Users\Adam\RiderProjects\AA_L3\obj\Debug\net7.0\ref\AA_L3.dll
