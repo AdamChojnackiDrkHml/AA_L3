@@ -89,7 +89,6 @@ public class Experiments
       var res = ns.Select(n => qs.Select(q => Enumerable.Range(0, numOfTrials)
                              .Select(_ =>
                              {
-                                Console.WriteLine("Start experiment " +  q + " " + n);
                                 return SingleExperiment(q, n);
                              })
                              .Select(x => x ? 1.0 : 0.0)
@@ -122,7 +121,7 @@ public class Experiments
             legitimateBranch++;
          }
 
-         if (legitimateBranch > n)
+         if (legitimateBranch < n)
          {
             continue;
          }
