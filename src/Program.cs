@@ -5,8 +5,8 @@ class Program
 {
     public static void Main(string[] args)
     {
-        Experiments.Ex1();
-        Experiments.Ex1b();
+        Experiments.Ex9aa();
+        Experiments.Ex9ab();
         Experiments.Ex9b();
     }
 }

@@ -1,6 +1,5 @@
 ﻿import matplotlib.pyplot as plt
 import numpy as np
-import csv
 from matplotlib.ticker import MaxNLocator
 
 Ns = [1, 3, 6, 12, 24, 48]
